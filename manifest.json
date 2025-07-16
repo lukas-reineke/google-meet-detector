@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Google Meet Detector",
-    "version": "1.0",
+    "version": "1.2",
     "description": "Detects if you are in a Google Meet and notifies Home Assistant.",
     "permissions": ["tabs", "alarms", "storage", "*://meet.google.com/*"],
     "background": {
